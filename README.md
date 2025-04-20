@@ -22,6 +22,8 @@ This project focuses on preparing bank customer churn data for analysis and repo
 - `bank_churn_cleaned.xlsx`: Final cleaned dataset with embedded Power Query steps
 - `README.md`: Documentation of the process and project summary
 
+   Note: The raw dataset was sourced from [Maven Analytics Bank Chrun Dataset].
+
 ## 📈 Outcome
 
 The final dataset is ready for analysis, supporting churn trend reporting, pattern identification, and strategic decision-making.
